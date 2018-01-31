@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Conversations
-description: Capturing the links, books, topics and resources mentioned in the conversations I have with people
+description: Writing down the links, books, topics and resources mentioned in the conversations I have with people.
 defaults:
   -
     scope:
