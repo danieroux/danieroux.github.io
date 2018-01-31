@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+title: Conversations I've had
+description: Capturing the conversations I have for my own reference
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
