@@ -24,8 +24,8 @@
         <h2>
           {{ page.title }}
           {% if page.twitter %}
-          - <a href="https://twitter.com/{% page.twitter %}">@{% page.twitter %}</a>
-            {% endif %}
+          - <a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a>
+          {% endif %}
         </h2>
        
       {{ content }}
