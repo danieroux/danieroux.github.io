@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Conversations I've had
-description: Capturing the conversations I have for my own reference
+title: Conversations
+description: Capturing the links, books, topics and resources mentioned in the conversations I have with people
 defaults:
   -
     scope:
